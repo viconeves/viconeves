@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+## Vinicius
+
+- 🔭 I’m currently working on geophysical data moddeling.
+- - 🌱 I’m currently learning FORTRAN, Python and C.
+
+
 <!--
 **viconeves/viconeves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
